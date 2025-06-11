@@ -1,1 +1,0 @@
-# Sales-and-Profit-Analysis-with-Logistic-Regression-in-R
